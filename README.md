@@ -2,7 +2,8 @@
 
 Este proyecto presenta un **mapa interactivo** que analiza la salud del sistema público de pensiones en España por Comunidades Autónomas, basado en proyecciones demográficas y de afiliación para el año 2026.
 
-![Captura del Mapa](https://via.placeholder.com/800x400?text=Mapa+Interactivo+España+2026) 
+<img width="691" height="500" alt="image" src="https://github.com/user-attachments/assets/8c3326dd-9827-4ef1-8a87-1b50850c6d22" />
+
 *(Sustituye esta URL por una captura de pantalla real de tu mapa una vez lo subas)*
 
 ## 📊 ¿Qué analiza este mapa?
