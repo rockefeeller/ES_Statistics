@@ -4,8 +4,6 @@ Este proyecto presenta un **mapa interactivo** que analiza la salud del sistema 
 
 <img width="691" height="500" alt="image" src="https://github.com/user-attachments/assets/8c3326dd-9827-4ef1-8a87-1b50850c6d22" />
 
-*(Sustituye esta URL por una captura de pantalla real de tu mapa una vez lo subas)*
-
 ## 📊 ¿Qué analiza este mapa?
 
 El objetivo es visualizar de forma clara y directa la **Tasa de Dependencia** y, sobre todo, el **Ratio de Trabajadores por Pensionista**. 
